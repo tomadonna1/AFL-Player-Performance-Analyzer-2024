@@ -1,0 +1,25 @@
+
+
+input[type="number"] {
+    color: black !important;
+    
+}
+
+/* Player selector dropdown */
+#player-selector .dash-dropdown-grid-container,
+#player-selector .dash-dropdown-trigger,
+#player-selector .dash-dropdown-grid-container * {
+    color: white !important;
+    background-color: #21262d !important;
+    border-color: #30363d !important;
+}
+
+#player-selector .dash-dropdown-option-container,
+#player-selector .dash-dropdown-option-container * {
+    background-color: #21262d !important;
+    color: white !important;
+}
+
+#player-selector .dash-dropdown-option:hover {
+    background-color: #30363d !important;
+}
