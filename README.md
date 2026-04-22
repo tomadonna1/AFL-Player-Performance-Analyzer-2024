@@ -16,10 +16,10 @@ A Plotly Dash web dashboard for analyzing AFL player performance in 2024, compar
 
 The `data_collection.r` script pulls three datasets from the AFL using the fitzRoy R package:
 
-1. Player Stats — fryzigg source
-- Function: fetch_player_stats(2024, source = "fryzigg")
+1. Player Stats
+- Function: `fetch_player_stats(2024, source = "fryzigg")`
 - What it gets: 81-column dataset with advanced player metrics per match — contested possessions, clearances, hit-outs, marks, tackles, disposals, etc.
-- Output: data/raw/player_stats_fryzigg_2024.csv
+- Output: `data/raw/player_stats_fryzigg_2024.csv`
 - Why this source: Fryzigg provides the most comprehensive advanced stats needed for the position-adjusted scoring model in Step 3.
 
 
