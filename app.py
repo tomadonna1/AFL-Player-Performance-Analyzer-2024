@@ -656,4 +656,4 @@ def update_player_profile(player_name):
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
