@@ -2,7 +2,8 @@
 
 A Plotly Dash web dashboard for analyzing AFL player performance in 2024, comparing AFL Fantasy scores (volume-based) vs Rating Points (impact-based).
 
-**Live demo:** [your-app.onrender.com](https://your-app.onrender.com) *(update after deployment)*  
+**Live demo:** [AFL Player Performance Analytics Dashboard 2024](https://afl-player-performance-analyzer-2024.onrender.com/) 
+
 **Data source:** [fitzRoy R package](https://github.com/jimmyday12/fitzRoy)
 
 ---
